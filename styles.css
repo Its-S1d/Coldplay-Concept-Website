@@ -39,7 +39,7 @@ color: rgb(138, 4, 49) ;
 
 .main-header{
     background-color:rgba(0,0,0, .6);
-    background-image: url("images/header.jpg");
+    background-image: url("Images/header.jpg");
     background-size:cover ;
     background-blend-mode: multiply;
     padding-bottom: 30px;
